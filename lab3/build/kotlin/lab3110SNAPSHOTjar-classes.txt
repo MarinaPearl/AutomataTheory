@@ -1,0 +1,1 @@
+D:\AutomataTheory\lab3\build\classes\kotlin\main\Main.class;D:\AutomataTheory\lab3\build\classes\kotlin\main\StoreMemoryMachine$Companion.class;D:\AutomataTheory\lab3\build\classes\kotlin\main\StoreMemoryMachine.class;D:\AutomataTheory\lab3\build\classes\kotlin\main\TreeNode.class
