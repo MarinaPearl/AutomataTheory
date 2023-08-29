@@ -152,3 +152,9 @@ fun parseS() {
         }
     }
 }
+
+fun main() {
+    val a : Any = 5
+    val b : Any = 5
+    println(a)
+}
